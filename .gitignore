@@ -1,0 +1,11 @@
+# Ignore all raw and processed data files locally
+*.csv
+*.db
+*.parquet
+data/raw/
+data/processed/
+
+# Ignore environment and IDE settings
+__pycache__/
+.env
+.vscode/
